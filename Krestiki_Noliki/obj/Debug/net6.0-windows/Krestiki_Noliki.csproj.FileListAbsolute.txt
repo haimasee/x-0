@@ -1,0 +1,17 @@
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.csproj.AssemblyReference.cache
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.Form1.resources
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.csproj.GenerateResource.cache
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.AssemblyInfoInputs.cache
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.AssemblyInfo.cs
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.csproj.CoreCompileInputs.cache
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\bin\Debug\net6.0-windows\Krestiki_Noliki.exe
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\bin\Debug\net6.0-windows\Krestiki_Noliki.deps.json
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\bin\Debug\net6.0-windows\Krestiki_Noliki.runtimeconfig.json
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\bin\Debug\net6.0-windows\Krestiki_Noliki.dll
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\bin\Debug\net6.0-windows\Krestiki_Noliki.pdb
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.dll
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\refint\Krestiki_Noliki.dll
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.pdb
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\Krestiki_Noliki.genruntimeconfig.cache
+C:\Users\hreno\source\repos\Krestiki_Noliki\Krestiki_Noliki\obj\Debug\net6.0-windows\ref\Krestiki_Noliki.dll
